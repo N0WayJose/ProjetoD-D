@@ -6,7 +6,7 @@ O projeto funciona diretamente no navegador e não precisa de instalação de bi
 
 ## Como abrir
 
-1. Localize o arquivo `index.html`.
+1. Baixe o arquivo `geradorRPG.html`.
 2. Abra-o com dois cliques ou clique com o botão direito e escolha um navegador (Chrome, Firefox, Edge etc.).
 3. Aguarde o mapa inicial aparecer.
 
